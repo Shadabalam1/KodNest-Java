@@ -1,6 +1,6 @@
 public class w2 {
     public static void main(String[] args) {
-        
+
         int marks = 72;
         int attendance = 80;
         boolean projectCompleted = true;
@@ -11,5 +11,5 @@ public class w2 {
         boolean placementEligible = acadamicEligible && projectCompleted;
         System.out.println("Placement Eligible : " + placementEligible);
     }
-    
+
 }
